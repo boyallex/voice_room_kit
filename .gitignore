@@ -1,0 +1,26 @@
+# Miscellaneous
+*.class
+*.lock
+*.log
+*.pyc
+*.swp
+.buildlog/
+.history
+
+# Flutter/Dart/Pub related
+**/doc/api/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+build/
+flutter_*.png
+
+# Coverage
+coverage/
+
+# IDE
+.idea/
+*.iml
+.DS_Store
